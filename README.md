@@ -32,3 +32,7 @@ Table: `orders`
 | amount      | DECIMAL(10,2) | Order amount (revenue) |
 | product_id  | INT           | ID of the purchased product |
 
+## Deliverables
+
+- SQL script
+- Output images (results table)
